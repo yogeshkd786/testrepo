@@ -1,9 +1,22 @@
 feature1_1.txt
-sdsdfv
-sdf
-sf
-sf
-sf
-sf
-sf
-sdff
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+=======
+dvgdfgg
+dsgf
+dgfdg
+DgdGDgDgDgDg
+dgdg
+dgdg
+dg
+dgdgd
+g
+dg
+>>>>>>> refs/remotes/origin/master
